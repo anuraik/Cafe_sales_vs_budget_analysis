@@ -101,6 +101,7 @@ The analysis compared actual sales and budget. Out of 12 months, 8 months were a
 
 📁 Data Source
 
+The raw data set is included in this respository. 
 
 👩‍💻 Author
 Anu Raik
