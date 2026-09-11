@@ -61,11 +61,11 @@ Compared different payment methods. The most popular one was Unknown, followed b
 
 Monthly sales
 
-The analysis looked montly sales. The biggest sales month was June (7031) and the lowest was February (6345,50). The difference beween months is there but its not very big. 
+The analysis looked monthly sales. The biggest sales month was June (7031) and the lowest was February (6345,50). The difference beween months is there but its not very big. 
 
 Sales vs budget
 
-The analysis compared actual sales and budget. Out of 12 months, 8 months were above budget and 4 months were below budget. Those 4 months were July, August, September and December. Biggest differences come from July (-445) and September (-444). Best performing month were April (+422) and October (+383,5). 
+The analysis compared actual sales and budget. Out of 12 months, 8 months were above budget and 4 months were below budget. Those 4 months were July, August, September and December. Biggest differences come from July (-445) and September (-444). Best performing months were April (+422) and October (+383,5). 
 
 🔍 Key Findings
 
@@ -87,6 +87,24 @@ The analysis compared actual sales and budget. Out of 12 months, 8 months were a
 - Use monthly budget variance analysis to identify periods requiring additional sales or marketing activities.
 
 📈 Visualizations
+
+- Top annual sales
+- Monthly sales
+- Sales vs Budget
+- Annual sales by quantity
+- Annual sales by location
+- Annual sales by payment method
+- Top items by quantity (over 3000)
+- Average sales per item vs total average sale
+
+
+
+📁 Data Source
+
+
+👩‍💻 Author
+Anu Raik
+
 
 
 
